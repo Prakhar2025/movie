@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <H1 align ="center" > BertFlix (MERN MOVIE)  </h1>
 <h5  align ="center"> 
 Fullstack open source movie application made with MongoDB, Express, React & Nodejs (MERN) </h5>
@@ -161,3 +162,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=======
+# movie
+>>>>>>> f739a707fdb1002f4032520b3885c8277597dcf7
